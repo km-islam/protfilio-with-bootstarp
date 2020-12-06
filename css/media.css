@@ -1,0 +1,372 @@
+
+
+@media (min-width: 1200px) {
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .nav-tabs .nav-link {
+        padding: 15px 48.7px;
+    }
+    .footer-logo {
+         margin-top: 0; 
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner-text {
+        margin-top: 50px;
+    }
+    .nav-tabs .nav-link {
+        padding: 12px 28.7px;
+    }
+    .nav-service-itam{
+        padding: 5px 0;
+    }
+    .nav-service-itam h4 {
+        margin: 10px 0 10px;
+    }
+
+    .footer-btn {
+        margin-top: 20px; 
+    }
+    .client-list ul {
+        display: flex;
+        justify-content: center;
+    }
+
+    .client-list ul li {
+        padding: 0 20px;
+    }
+     .clients {
+         text-align: center;
+     }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+     .navbar-toggler i {
+         color: rgb(255, 255, 255);
+         font-size: 25px;
+     }
+
+     .navbar-light .navbar-toggler {
+         border: none;
+         outline: 0;
+     }
+
+     .navbar-light .navbar-nav .nav-link {
+         line-height: 30px;
+     }
+
+     .nav-btn .btn-style-1 {
+         margin-left: 0;
+     }
+
+     .collapse {
+         background: #1b1f38;
+         text-align: center;
+         padding: 5px 0;
+         line-height: 30px;
+     }
+
+     .banner-text h1 {
+         font-size: 28px;
+     }
+
+     .banner-text p {
+         font-size: 20px;
+         margin: 15px 0 0;
+
+     }
+
+     .banner-text {
+         margin-top: 50px;
+     }
+
+     .nav-tabs .nav-link {
+         font-size: 12px;
+         font-weight: 500;
+         padding: 5px 14px;
+     }
+
+     #banner {
+         padding-top: 100px;
+     }
+     .nav-tabs .nav-link {
+         font-size: 14px;
+         padding: 8px 15px;
+     }
+     .about-part {
+         padding: 35px 50px;
+     }
+
+     .about-text h4 {
+         font-size: 18px;
+         margin: 0 0 8px;
+         font-weight: 500;
+         margin-top: 10px;
+     }
+
+     .about-text h2 {
+         font-size: 28px;
+     }
+
+     .about-text span {
+         line-height: 1.3em;
+         margin-top: 10px;
+     }
+
+     .about-text p {
+         line-height: 1.3em;
+         margin-top: 10px;
+         margin-bottom: 30px;
+     }
+
+     #nav-interview {
+         padding: 35px 20px;
+     }
+
+     .inter-text h4 {
+         margin: 0 0 20px;
+     }
+
+     .interview-itam {
+         padding: 10px 0;
+     }
+
+     .inter-text p {
+         line-height: 1.3em;
+         margin-bottom: 10px;
+     }
+
+     #nav-service {
+         padding: 35px 25px;
+     }
+
+     .nav-service-itam {
+         padding: 10px 0;
+     }
+
+     .nav-service-itam h4 {
+         margin: 10px 0 10px;
+     }
+
+     #nav-award {
+         padding: 35px 50px;
+     }
+
+     .award-text h4 {
+         margin: 0px 0 10px;
+     }
+
+     #my-Project {
+         padding-top: 80px;
+         padding-bottom: 80px;
+     }
+
+     #testimonial {
+         padding-top: 80px;
+         padding-bottom: 80px;
+     }
+
+     .section-head p {
+         font-size: 30px;
+     }
+
+     .testi-itam {
+         margin-top: 20px;
+         padding: 20px;
+     }
+
+     #client {
+         padding-top: 80px;
+         padding-bottom: 80px;
+     }
+     .client-list ul{
+         display: flex;
+         justify-content: center;
+     }
+     .client-list ul li {
+         padding: 0 15px;
+     }
+
+     .clients {
+         text-align: center;
+     }
+
+     #social {
+         padding-top: 80px;
+         padding-bottom: 80px;
+     }
+
+     .social-itam {
+         padding: 10px;
+         margin-bottom: 15px;
+     }
+
+     .social-icon i {
+         font-size: 35px;
+     }
+
+     #footer {
+         padding-top: 50px;
+     }
+
+     #footer .container {
+         text-align: center;
+     }
+
+     .footer-btn {
+         text-align: center;
+     }
+
+}
+
+@media (max-width: 575.98px) {
+    .navbar-toggler i{
+        color: rgb(255, 255, 255);
+        font-size: 25px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+        outline: 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        line-height: 30px;
+    }
+    .nav-btn .btn-style-1 {
+        margin-left: 0;
+    }
+    .collapse {
+        background: #1b1f38;
+        text-align: center;
+        padding: 5px 0;
+        line-height: 30px;
+    }
+    .banner-text h1 {
+        font-size: 28px;
+    }
+    .banner-text p {
+        font-size: 20px;
+        margin: 15px 0 0;
+        
+    }
+    .banner-text {
+        margin-top: 50px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 12px;
+        font-weight: 500;
+        padding: 5px 14px;
+    }
+    #banner {
+        padding-top: 100px;
+    }
+    .about-part {  
+        padding: 35px 50px;
+    }
+    .about-text h4 {
+        font-size: 18px;
+        margin: 0 0 8px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+    .about-text h2 {
+        font-size: 28px;
+    }
+    .about-text span {
+        line-height: 1.3em;
+        margin-top: 10px;
+    }
+    .about-text p {
+        line-height: 1.3em;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    #nav-interview {
+        padding: 35px 20px;
+    }
+    .inter-text h4 {
+        margin: 0 0 20px;
+    }
+    .interview-itam{
+        padding: 10px 0;
+    }
+    .inter-text p {
+        line-height: 1.3em;
+        margin-bottom: 10px;
+    }
+    #nav-service {
+        padding: 35px 25px;
+    }
+    .nav-service-itam{
+        padding: 10px 0;
+    }
+    .nav-service-itam h4 {
+        margin: 10px 0 10px;
+    }
+    #nav-award {
+        padding: 35px 50px;
+    }
+    .award-text h4 {
+        margin: 0px 0 10px;
+    }
+     #my-Project {
+         padding-top: 80px;
+         padding-bottom: 80px;
+     }
+    #testimonial {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .section-head p {
+        font-size: 30px;
+    }
+    .testi-itam {
+        margin-top: 20px;
+        padding: 20px;
+    }
+    #client{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .client-list ul {
+        display: flex;
+        justify-content: center;
+    }
+
+    .client-list ul li {
+        padding: 0;
+    }
+    .client-list ul li a {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .clients{
+        text-align: center;
+    }
+    #social{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .social-itam {
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+    .social-icon i {
+        font-size: 35px;
+    }
+    #footer {
+        padding-top: 50px;
+    }
+    #footer .container {
+       text-align: center;
+    }
+    .footer-btn {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+}
